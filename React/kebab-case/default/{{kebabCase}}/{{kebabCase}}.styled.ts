@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-export const {{kebabCase}} = styled.div`
+export const {{pascalCase}} = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;

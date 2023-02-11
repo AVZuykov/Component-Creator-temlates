@@ -1,5 +1,5 @@
 import { PropsWithChildren } from 'react'
 
-export interface {{kebabCase}}Props extends PropsWithChildren {
+export interface {{pascalCase}}Props extends PropsWithChildren {
   example?: string
 }

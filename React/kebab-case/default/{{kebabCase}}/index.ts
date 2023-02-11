@@ -1,1 +1,1 @@
-export { {{kebabCase}} } from './{{kebabCase}}'
+export { {{pascalCase}} } from './{{kebabCase}}'
